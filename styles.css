@@ -1,0 +1,9 @@
+.tzf-status.tzf-system {
+  color: var(--text-faint);
+}
+
+.tzf-flair {
+  margin-inline-start: var(--size-4-2);
+  font-size: var(--font-ui-smaller);
+  color: var(--text-faint);
+}
